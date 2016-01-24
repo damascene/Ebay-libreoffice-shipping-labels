@@ -22,6 +22,13 @@ Known Bugs
  - When a buyer has long address discription you will have to modify the page before printing to handle more words.
 
 
+How to Use It
+=============
+1. Extract the files
+2. Replace the SalesHistory.csv file with yours
+3. open SalesHistory.ods and accept to update
+4. open CN22-one.odt file and you are ready to print
+
 Warrenty
 ========
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
